@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
 public class Operators {
+
+    static void main(String[] args) {
+
+    }
 }

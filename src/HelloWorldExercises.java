@@ -47,10 +47,6 @@ public class HelloWorldExercises {
         System.out.println("  *****  ");
         System.out.println(" ******* ");
 
-        // 11. Intenta ejecutar el programa sin el método main y observa el error.
-
-        // 12. Intenta cambiar el nombre del archivo a uno diferente del de la clase y compílalo. ¿Qué pasa?
-
     }
 
 }
