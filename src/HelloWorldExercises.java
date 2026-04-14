@@ -32,6 +32,7 @@ public class HelloWorldExercises {
         String userName = "";
         System.out.println("Por favor digita tu nombre: ");
         userName = scanner.nextLine();
+        scanner.close();
         System.out.printf("Hola, %s Bienvenido.%n", userName);
 
         // 9. Imprime un diseño de un cuadrado.
