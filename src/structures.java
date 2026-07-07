@@ -20,9 +20,11 @@ public class structures {
         numbers[1] = 10;
         numbers[2] = 100;
 
-        System.out.println(numbers[0]);
+        System.out.println(numbers[2]);
 
-
+        boolean[] booleans = new boolean[4];
+        booleans[1] = true;
+        System.out.println(booleans[0]);
 
     }
 }
