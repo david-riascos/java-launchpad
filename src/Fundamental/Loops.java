@@ -1,3 +1,5 @@
+package Fundamental;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -25,7 +27,7 @@ public class Loops {
         System.out.println(arrayList);
 
 
-        // Loops
+        // Fundamental.Loops
         for (int i = 0; i < paises.length; i++){
             System.out.println("Index: for "+i+" "+paises[i]);
         }

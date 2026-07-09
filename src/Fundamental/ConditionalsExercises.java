@@ -1,3 +1,5 @@
+package Fundamental;
+
 public class ConditionalsExercises {
 
     static void main(String[] args) {

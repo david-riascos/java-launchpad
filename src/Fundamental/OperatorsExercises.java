@@ -1,3 +1,5 @@
+package Fundamental;
+
 public class OperatorsExercises {
 
     static void main( String[] args) {

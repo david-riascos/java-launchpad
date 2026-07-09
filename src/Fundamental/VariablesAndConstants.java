@@ -1,3 +1,5 @@
+package Fundamental;
+
 public class VariablesAndConstants {
 
     static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Fundamental;
+
 import java.util.Scanner;
 
 public class HelloWorldExercises {

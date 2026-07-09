@@ -1,3 +1,5 @@
+package Fundamental;
+
 public class StringExercises {
 
     static void main(String[] args) {

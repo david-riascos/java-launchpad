@@ -1,3 +1,5 @@
+package Fundamental;
+
 import java.util.ArrayList;
 
 public class FunctionsExercises {

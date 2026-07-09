@@ -1,3 +1,5 @@
+package Fundamental;
+
 public class Functions {
 
     static void main() {

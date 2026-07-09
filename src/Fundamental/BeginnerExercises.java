@@ -1,3 +1,5 @@
+package Fundamental;
+
 public class BeginnerExercises {
 
     static void main(String[] args) {

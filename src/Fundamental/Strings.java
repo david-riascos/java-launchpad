@@ -1,3 +1,5 @@
+package Fundamental;
+
 public class Strings {
 
     static void main(String[] args) {

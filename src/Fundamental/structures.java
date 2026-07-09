@@ -1,3 +1,5 @@
+package Fundamental;
+
 public class structures {
 
     static void main(String[] args) {
