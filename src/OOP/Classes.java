@@ -2,7 +2,7 @@ package OOP;
 
 public class Classes {
 
-    static void main() {
+    static void main(String[] arg) {
 
         var person = new Person(
                 "David",

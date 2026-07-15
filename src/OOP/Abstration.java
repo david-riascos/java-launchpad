@@ -2,7 +2,7 @@ package OOP;
 
 public class Abstration {
 
-    static void main() {
+    static void main(String[] arg) {
 
 
         // Abstraccion: Exponer lo esencial y reducir la complejidad

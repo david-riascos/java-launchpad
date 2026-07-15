@@ -2,7 +2,7 @@ package OOP;
 
 public class Polymorphis {
 
-    static void main() {
+    static void main(String[] arg) {
 
         // ** Polimorfismo - muchas formas en que un metodo toma diferentes comportamientos**
 
