@@ -2,7 +2,7 @@ package OOP;
 
 public class Composition {
 
-    static void main(String[] arg) {
+    public static void main(String[] arg) {
 
         var hp = new Computador();
         hp.on();

@@ -2,7 +2,7 @@ package OOP;
 
 public class AccesModifiers {
 
-    static void main(String[] arg) {
+    public static void main(String[] arg) {
         Progenitores papa = new Progenitores("Carlos", "Andrés", "García", "Pérez");
         Progenitores mama = new Progenitores("Laura", "Beatriz", "Martínez", "Ruiz");
 
